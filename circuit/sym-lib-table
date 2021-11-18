@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name R_C_L)(type Legacy)(uri ${KIPRJMOD}/library/schematic_library/R_C_L.lib)(options "")(descr ""))
+  (lib (name Microcontroller)(type Legacy)(uri ${KIPRJMOD}/library/schematic_library/Microcontroller.lib)(options "")(descr ""))
+)
